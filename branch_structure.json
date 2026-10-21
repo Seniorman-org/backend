@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "docs/anomaly-detection-readme",
+    "fix/anomaly-flat-baseline",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "docs/anomaly-detection-readme": "main",
+    "fix/anomaly-flat-baseline": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "docs/anomaly-detection-readme",
+    "fix/anomaly-flat-baseline",
+    "origin"
+  ]
+}
